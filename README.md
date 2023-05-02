@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borges-boss
 - 👀 I’m interested in Mobile development (Android and IOS)
-- 🌱 I’m currently learning Node JS and React Native
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Mobile and Web Projects
 - 📫 How to reach me: borges.diorato@gmail.com
 
